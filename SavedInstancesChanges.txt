@@ -1,0 +1,26 @@
+-- Mount/toy Pet additions for Saved Instances, 
+  -- Insert into Quests.lua approx line 60 in _specialQuests array
+
+  -- Nazjatar Additional Mount
+  [56298] = { daily=true, zid=1355, aid=13691, acid=31}, -- Soundless
+  -- Mechagon Additional Mounts
+  [55512] = { daily=true, zid=1462, aid=13470, acid=7}, -- Arachnid Harvester
+  [55811] = { daily=true, zid=1462, aid=13470, acid=18}, -- Rustfeather
+  --Vale Mount/Pet/Toy Rares
+  [57363] = { daily=true, zid=9105, name=L["Anh-De the Loyal"]}, -- Anh-De the Loyal
+  [57344] = { daily=true, zid=9105, name=L["Ha-Li"]}, -- Ha-Li
+  [57345] = { daily=true, zid=9105, name=L["Houndlord Ren"]}, -- Houndlord Ren
+  [57346] = { daily=true, zid=9105, name=L["Rei Lun"]}, -- Rei Lun
+  [56303] = { daily=true, zid=9105, name=L["Will Of N'Zoth"]}, -- Will Of N'Zoth
+  [57342] = { daily=true, zid=9105, name=L["The Forgotten"]}, -- The Forgotten
+  [58507] = { daily=true, zid=9105, name=L["Tashara"]}, -- Tashara
+  --Uldum Mount/Pet/Toy Rares
+  [58696] = { daily=true, zid=10833, name=L["Corpse Eater"]}, -- Corpse Eater
+  [57273] = { daily=true, zid=10833, name=L["Rotfeaster"]}, -- Rotfeaster
+  [56340] = { daily=true, zid=10833, name=L["Lord Aj'qirai"]}, -- Lord Aj'qirai
+  [58697] = { daily=true, zid=10833, name=L["Skikx'traz"]}, -- Skikxtraz
+  [58330] = { daily=true, zid=10833, name=L["Amalgamation of Flesh"]}, -- Amalgamation of Flesh
+  [57680] = { daily=true, zid=10833, name=L["Gaze of N'Zoth"]}, -- GazeOfNZoth
+  [57688] = { daily=true, zid=10833, name=L["The Grand Executor"]}, -- The Grand Executor
+  [57438] = { daily=true, zid=10833, name=L["Yiphrim"]}, -- Yiphrim
+  [57259] = { daily=true, zid=10833, name=L["Ishak of the Four Winds"]}, -- Ishak of the Four Winds
